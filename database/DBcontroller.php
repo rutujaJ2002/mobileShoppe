@@ -4,8 +4,8 @@ class DBcontroller
 {
     //database connection properties
     protected $host="localhost";
-    protected $user="root";
-    protected $password="rajashri";
+    protected $user="username";
+    protected $password="password";
     protected $database="mobileshopee";
 
     //connection property
